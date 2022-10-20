@@ -1,0 +1,7 @@
+.Imagenes  {
+  width: 300px;
+}
+.total {
+    display:flex ;
+    flex-wrap: nowrap;
+}
